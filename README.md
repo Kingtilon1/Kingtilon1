@@ -12,7 +12,7 @@ I'm a Software/Machine Learning Engineer & Data Scientist with a BSc in Computer
 ## 🔥 Projects
 ### [Cloud Classification](https://github.com/Kingtilon1/Cloud-classification)
 - **Description**: A machine learning project focused on classifying types of clouds from satellite images. This project explores convolutional neural networks for image processing and classification, highlighting my deep learning and neural network skills.
-- **Tech Stack**: Python, TensorFlow, Keras
+- **Tech Stack**: Python, PyTorch, Matplotlib
 
 ### [House Prices Competition](https://github.com/Kingtilon1/House-prices-competition)
 - **Description**: A Kaggle competition project predicting house prices based on various features. Implemented multiple regression models and feature engineering techniques to improve prediction accuracy.
