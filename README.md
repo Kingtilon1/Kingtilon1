@@ -47,13 +47,18 @@ I'm a Software/Machine Learning Engineer & Data Scientist with a BSc in Computer
 - **Microsoft's 30-Day Azure Machine Learning Challenge**
 
 ## 🎨 Hobbies
-- **Photography**: Capturing moments and creating visual stories.
-- **Chess**: Enjoying strategic games and improving my skills.
+- **Basketball**: Playing and following the latest games and stats.
+- **Video Games**: Enjoying a wide range of genres, from RPGs to competitive shooters.
+- **Anime & Manga**: Watching and reading various series, exploring different genres and stories.
 
 Feel free to explore my repositories and get in touch!
 
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingtilon1&layout=compact)
+![Tilon's GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kingtilon1&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kingtilon1&theme=default)
+![Top Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kingtilon1&theme=default)
+
+
 
