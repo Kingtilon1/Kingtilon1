@@ -18,7 +18,7 @@ I'm a Software/Machine Learning Engineer & Data Scientist with a BSc in Computer
 - **Description**: A Kaggle competition project predicting house prices based on various features. Implemented multiple regression models and feature engineering techniques to improve prediction accuracy.
 - **Tech Stack**: Python, Scikit-learn, Pandas
 
-### [Property Sales Analysis](https://github.com/VIbitoye/tech-dive-pythons)
+### [Property Sales Analysis](https://github.com/Kingtilon1/DATA607/blob/main/Final/607final.Rmd)
 - **Description**: An exploratory data analysis project on property sales data to uncover trends and insights. Includes data cleaning, visualization, and statistical analysis.
 - **Tech Stack**: R, ggplot2, dplyr
 
