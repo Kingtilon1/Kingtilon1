@@ -22,7 +22,7 @@ I'm a Software/Machine Learning Engineer & Data Scientist with a BSc in Computer
 - **Description**: An exploratory data analysis project on property sales data to uncover trends and insights. Includes data cleaning, visualization, and statistical analysis.
 - **Tech Stack**: R, ggplot2, dplyr
 
-### [COVID-19 Patient Tracker](https://github.com/Kingtilon1/COVID-19-Patient-Tracker)
+### [COVID-19 Patient Tracker](https://github.com/VIbitoye/tech-dive-pythons)
 - **Description**: Developed a web application to allow doctors to CRUD structured radiology reports as an assessment of x-ray images for patients with COVID-19. The project significantly increased efficiency and reduced integration time for frontend and backend components.
 - **Tech Stack**: MERN (MongoDB, Express.js, React, Node.js)
 
