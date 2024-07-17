@@ -14,6 +14,10 @@ I'm a Software/Machine Learning Engineer & Data Scientist with a BSc in Computer
 - **Description**: A machine learning project focused on classifying types of clouds from satellite images. This project explores convolutional neural networks for image processing and classification, highlighting my deep learning and neural network skills.
 - **Tech Stack**: Python, PyTorch, Matplotlib
 
+### [Network and Sentiment Analysis of Presidential Speeches](https://github.com/Kingtilon1/DATA620/blob/main/Final/Final.ipynb)
+- **Description**: This project involves a comprehensive analysis of presidential speeches using natural language processing and network analysis techniques. Leveraged NLTK and NetworkX to perform sentiment analysis and construct a network graph of co-occurring keywords. This project demonstrates my ability to extract, process, and analyze textual data, uncovering key themes and relationships within the speeches.
+- **Tech Stack**: Python, NLTK, NetworkX, Matplotlib, Pandas
+
 ### [House Prices Competition](https://github.com/Kingtilon1/House-prices-competition)
 - **Description**: A Kaggle competition project predicting house prices based on various features. Implemented multiple regression models and feature engineering techniques to improve prediction accuracy.
 - **Tech Stack**: Python, Scikit-learn, Pandas
