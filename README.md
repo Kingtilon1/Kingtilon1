@@ -13,7 +13,7 @@ I'm a Software/Machine Learning Engineer & Data Scientist with a BSc in Computer
 ### [Pantry Tracker](https://github.com/Kingtilon1/PantryTracker)
 - **Description**: A web application designed to help users keep track of their pantry items. Users can add, edit, and delete items, as well as search for specific items in their pantry. The application provides a user-friendly interface for managing pantry inventory efficiently.
 - **Tech Stack**: Next.js, Firebase, Material-UI, Vercel
-- 
+  
 ### [Cloud Classification](https://github.com/Kingtilon1/Cloud-classification)
 - **Description**: A machine learning project focused on classifying types of clouds from satellite images. This project explores convolutional neural networks for image processing and classification, highlighting my deep learning and neural network skills.
 - **Tech Stack**: Python, PyTorch, Matplotlib
