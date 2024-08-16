@@ -5,9 +5,10 @@ I'm a Software/Machine Learning Engineer & Data Scientist with a BSc in Computer
 
 ## 🛠 Skills
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-blue) ![R](https://img.shields.io/badge/-R-green) ![Java](https://img.shields.io/badge/-Java-red) ![C++](https://img.shields.io/badge/-C++-orange)
-- **Frameworks & Tools**: ![PyTorch](https://img.shields.io/badge/-PyTorch-red) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![React](https://img.shields.io/badge/-React-blue) ![Django](https://img.shields.io/badge/-Django-green)
+- **Frameworks & Tools**: ![PyTorch](https://img.shields.io/badge/-PyTorch-red) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![React](https://img.shields.io/badge/-React-blue) ![Django](https://img.shields.io/badge/-Django-green) ![Next.js](https://img.shields.io/badge/-Next.js-black) ![Material-UI](https://img.shields.io/badge/-Material_UI-blue)
 - **Data Visualization**: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-green) ![Seaborn](https://img.shields.io/badge/-Seaborn-blue)
-- **Other Tools**: ![Git](https://img.shields.io/badge/-Git-black) ![Azure](https://img.shields.io/badge/-Azure-purple)
+- **Other Tools**: ![Git](https://img.shields.io/badge/-Git-black) ![Azure](https://img.shields.io/badge/-Azure-purple) ![AWS](https://img.shields.io/badge/-AWS-orange) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-blue)
+
 
 ## 🔥 Projects
 ### [Customer Support AI Chatbot](https://github.com/Kingtilon1/Customer-Support-AI-Chatbot)
