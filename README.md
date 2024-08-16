@@ -10,6 +10,10 @@ I'm a Software/Machine Learning Engineer & Data Scientist with a BSc in Computer
 - **Other Tools**: ![Git](https://img.shields.io/badge/-Git-black) ![Azure](https://img.shields.io/badge/-Azure-purple)
 
 ## 🔥 Projects
+### [Customer Support AI Chatbot](https://github.com/Kingtilon1/Customer-Support-AI-Chatbot)
+- **Description**: An AI-powered chatbot designed for real estate customer support. Utilizes Google’s Gemini for natural language understanding and is hosted on AWS EC2. The frontend is built with Next.js and styled using Material UI for a modern, responsive user interface.
+- **Tech Stack**: Google Gemini, AWS EC2, Next.js, Material UI
+  
 ### [Pantry Tracker](https://github.com/Kingtilon1/PantryTracker)
 - **Description**: A web application designed to help users keep track of their pantry items. Users can add, edit, and delete items, as well as search for specific items in their pantry. The application provides a user-friendly interface for managing pantry inventory efficiently.
 - **Tech Stack**: Next.js, Firebase, Material-UI, Vercel
