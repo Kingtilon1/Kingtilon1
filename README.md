@@ -10,6 +10,11 @@ I'm a Software/Machine Learning Engineer & Data Scientist with a BSc in Computer
 - **Other Tools**: ![Git](https://img.shields.io/badge/-Git-black) ![Azure](https://img.shields.io/badge/-Azure-purple) ![AWS](https://img.shields.io/badge/-AWS-orange) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-blue)
 
 ## 🔥 Projects
+
+### [AI Flashcards](https://github.com/MarleyWulf/AI-Flashcards)
+- **Description**: A flashcard application that leverages AI to generate custom learning prompts and quizzes for users. Designed to optimize learning efficiency with intelligent content generation and spaced repetition.
+- **Tech Stack**: Flask, Python, Next.js, Firebase
+
 ### [Customer Support AI Chatbot](https://github.com/Kingtilon1/Customer-Support-AI-Chatbot)
 - **Description**: An AI-powered chatbot designed for real estate customer support. Utilizes Google’s Gemini for natural language understanding and is hosted on AWS EC2. The frontend is built with Next.js and styled using Material UI for a modern, responsive user interface.
 - **Tech Stack**: Google Gemini, AWS EC2, Next.js, Material UI
