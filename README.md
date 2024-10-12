@@ -11,9 +11,9 @@ I'm a Software/Machine Learning Engineer & Data Scientist with a BSc in Computer
 
 ## 🔥 Projects
 
-### [AI Flashcards](https://github.com/MarleyWulf/AI-Flashcards)
-- **Description**: A flashcard application that leverages AI to generate custom learning prompts and quizzes for users. Designed to optimize learning efficiency with intelligent content generation and spaced repetition.
-- **Tech Stack**: Flask, Python, Next.js, Firebase
+### [AI Flashcard App](https://github.com/MarleyWulf/AI-Flashcards)
+- **Description**: Implemented a dynamic web application in Next.js and Material-UI that generates flashcards using Google's Gemini API based on user-provided topics, enhancing learning efficiency.
+- **Tech Stack**: Next.js, Vercel, Firebase, Google Gemini
 
 ### [Customer Support AI Chatbot](https://github.com/Kingtilon1/Customer-Support-AI-Chatbot)
 - **Description**: An AI-powered chatbot designed for real estate customer support. Utilizes Google’s Gemini for natural language understanding and is hosted on AWS EC2. The frontend is built with Next.js and styled using Material UI for a modern, responsive user interface.
