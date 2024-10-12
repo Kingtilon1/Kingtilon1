@@ -4,10 +4,10 @@
 I'm a Software/Machine Learning Engineer & Data Scientist with a BSc in Computer Science from Brooklyn College and currently pursuing an MS in Data Science at CUNY. I am passionate about leveraging data and technology to solve real-world problems, with expertise in machine learning, neural networks, and software engineering. [My Portfolio](https://tilonbobb.netlify.app/)
 
 ## 🛠 Skills
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-blue) ![R](https://img.shields.io/badge/-R-green) ![Java](https://img.shields.io/badge/-Java-red) ![C++](https://img.shields.io/badge/-C++-orange) ![SQL](https://img.shields.io/badge/-SQL-lightbl)
-- **Frameworks & Tools**: ![PyTorch](https://img.shields.io/badge/-PyTorch-red) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-lightgrey) ![Pandas](https://img.shields.io/badge/-Pandas-purple) ![NumPy](https://img.shields.io/badge/-NumPy-blue) ![React](https://img.shields.io/badge/-React-blue) ![Django](https://img.shields.io/badge/-Django-green) ![Next.js](https://img.shields.io/badge/-Next.js-black) ![Material-UI](https://img.shields.io/badge/-Material_UI-blue)
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-blue) ![R](https://img.shields.io/badge/-R-green) ![JavaScript](https://img.shields.io/badge/-javascript-blue?logo=javascript) ![SQL](https://img.shields.io/badge/-SQL-lightbl)
+- **Frameworks & Tools**: ![PyTorch](https://img.shields.io/badge/-PyTorch-red)  ![React](https://img.shields.io/badge/-React-blue) ![Django](https://img.shields.io/badge/-Django-green) ![Next.js](https://img.shields.io/badge/-Next.js-black) 
 - **Data Visualization**: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-green) ![Seaborn](https://img.shields.io/badge/-Seaborn-blue)
-- **Other Tools**: ![Git](https://img.shields.io/badge/-Git-black) ![Azure](https://img.shields.io/badge/-Azure-purple) ![AWS](https://img.shields.io/badge/-AWS-orange) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-blue)
+- **Other Tools**: ![Git](https://img.shields.io/badge/-Git-black) 
 
 ## 🔥 Projects
 
