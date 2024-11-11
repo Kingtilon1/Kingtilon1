@@ -11,6 +11,10 @@ I'm a Software/Machine Learning Engineer & Data Scientist with a BSc in Computer
 
 ## 🔥 Projects
 
+### [GitHub Overview](https://github.com/Kingtilon1/GithubOverview)
+- **Description**: Built an open-source assistant that helps developers understand GitHub repositories by providing intelligent responses to queries about contribution guidelines, setup, and documentation using NVIDIA NIMs' embedding and LLM capabilities.
+- **Tech Stack**: NVIDIA NIMs (nv-embedqa-e5-v5, llama3-70b-instruct), Pinecone Vector DB, Flask, Next.js, Material UI
+
 ### [AI Flashcard App](https://github.com/MarleyWulf/AI-Flashcards)
 - **Description**: Implemented a dynamic web application in Next.js and Material-UI that generates flashcards using Google's Gemini API based on user-provided topics, enhancing learning efficiency.
 - **Tech Stack**: Next.js, Vercel, Firebase, Google Gemini
