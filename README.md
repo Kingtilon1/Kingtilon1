@@ -11,7 +11,7 @@ I'm a Software/Machine Learning Engineer & Data Scientist with a BSc in Computer
 
 ## 🔥 Projects
 
-### [NVIDIA and LlamaIndex Developer Contest](https://github.com/Kingtilon1/GithubOverview)
+### [NVIDIA and LlamaIndex Developer Contest](https://github.com/Kingtilon1/GtihubOverview)
 - **Description**: Built an open-source assistant that helps developers understand GitHub repositories by providing intelligent responses to queries about contribution guidelines, setup, and documentation using NVIDIA NIMs' embedding and LLM capabilities.
 - **Tech Stack**: NVIDIA NIMs (nv-embedqa-e5-v5, llama3-70b-instruct), Pinecone Vector DB, Flask, Next.js, Material UI
 
