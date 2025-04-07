@@ -1,7 +1,7 @@
 # Hi there, I'm Tilon 👋
 
 ## 🚀 About Me
-I'm a Software/Machine Learning Engineer & Data Scientist with a BSc in Computer Science from Brooklyn College and currently pursuing an MS in Data Science at CUNY. I am passionate about leveraging data and technology to solve real-world problems, with expertise in software engineering, and machine learning [My Portfolio](https://tilonbobb.netlify.app/)
+I'm a Software Engineer & Data Scientist with a BSc in Computer Science from Brooklyn College and currently pursuing an MS in Data Science at CUNY. I am passionate about leveraging data and technology to solve real-world problems, with expertise in software engineering, and machine learning [My Portfolio](https://tilonbobb.netlify.app/)
 
 ## 🛠 Skills
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-blue) ![R](https://img.shields.io/badge/-R-green) ![JavaScript](https://img.shields.io/badge/-javascript-blue?logo=javascript) ![SQL](https://img.shields.io/badge/-SQL-lightbl)
