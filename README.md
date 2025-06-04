@@ -49,9 +49,8 @@ I'm a Software Engineer & Data Scientist with a BSc in Computer Science from Bro
 
 ## 🌱 Experience
 - **Software Engineer Intern** at ezCater (Jun 2023 – Nov 2023): 
-  - Led cross-functional collaboration resulting in a 15% increase in conversion rates and a 20% surge in business accounts.
-  - Migrated web app from React to Next.js, enhancing performance and team productivity by 16%.
-  - Innovated a feature for custom colors in catering orders, increasing conversion rates by 17%.
+  - Deployed UI modifications using feature flags for A/B testing, contributing to a 7.66% increase in bookings per user, 8.25% increase in revenue per user, and a $1.7M increase in annual revenue.
+  -  Revamped the "Caterers Near Me" page using Ruby on Rails, resulting in a 6% increase in paid search conversions, a 3% rise in average order value, and a +12.55% lift in conversion rates from paid search, driving significant business impact.
 
 - **Hack.Diversity Fellow** (Dec 2022 – Aug 2023):
   - Selected among the final 15 out of 300 candidates for the fellowship.
